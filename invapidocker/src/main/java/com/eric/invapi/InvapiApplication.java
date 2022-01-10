@@ -9,6 +9,7 @@ import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
 
 
 
+
 @SpringBootApplication
 
 @EnableAutoConfiguration(exclude = DataSourceAutoConfiguration.class)
